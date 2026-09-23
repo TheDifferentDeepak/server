@@ -27,3 +27,12 @@ npm install
 ```
 
 3. Create a `.env` file with:
+
+MONGO_URI=your_mongodb_connection_string
+PORT=5000
+
+
+4. Start server
+```bash
+npm run dev
+```
